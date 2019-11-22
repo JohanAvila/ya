@@ -4,8 +4,10 @@ copia una breve descripcion del trabjo que tengas en el informe
 
 * likn  del  viedo : valen toca poner el link que va a mandar pablo 
 
+# Repositorio de  hardwre:
 
-
+*Modulo Relé :https://www.vistronica.com/potencia/modulo-rele-de-2-canales-detail.html?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmlvKu1OsLLj2f1v3_M37RQ9z3bZeedvF-MK_U-YOIhiK0kF-tS2quo4aAoY4EALw_wcB
+* arduino :https://www.dynamoelectronics.com/tienda/arduino-uno-r3/?gclid=Cj0KCQiAiNnuBRD3ARIsAM8KmltRdE1reLVw2Ld-6UQwaSnY2RHy3PdUPfCBtxLXO9i95YUO0hzpWVwaAh-HEALw_wcB
 * Cerradura Inteligente Turbolock Seguridad Avanzada, Acceso: https://articulo.mercadolibre.com.co/MCO-494151729-cerradura-inteligente-turbolock-seguridad-avanzada-acceso-_JM?matt_tool=24497864&matt_word&gclid=Cj0KCQiAiNnuBRD3ARIsAM8Kmlu89j6uHJSS8UtjVS4zwD6Bxrcboct044f2XQ9sE-nejcqtR0aBroYaAmkkEALw_wcB&quantity=1
 # Este repositorio contiene:
 
