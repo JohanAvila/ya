@@ -53,11 +53,11 @@ doc_exportar.pyc
 ```
 En este codigo podremos encontrar cada una de las funciones que se encargan de abiitar las opciones de la pagina 
 ```sh
-login
-calificacion
-promedio
-correo
-guardar
+* login
+* calificacion
+* promedio
+* correo
+* guardar
 ```
 
 # Universidad de Ibague 
