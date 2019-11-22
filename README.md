@@ -76,6 +76,8 @@ codigo principal es el encargado que general la pagina wed es a que donde se lla
 
 # ejecucion no estoy seguro 
 
+codigos a ejecutar en la terminal 
+
 * Codigo_Paralelo.py
 * Flask1.py
 
