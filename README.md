@@ -27,10 +27,10 @@ copia una breve descripcion del trabjo que tengas en el informe
 Es necesario instalar las bibliotecas de la siguiente manera
 
 * Para instalar pandas:
- ***sh
+ ```sh
 pip install pandas
 pip3 install pandas
-
+```
 Esta biblioteca es necesaria porque mediante ella podemos astraer la informcaion en la base de datos.
 
 * para instalar paho-mqtt
