@@ -33,22 +33,17 @@ pip3 install pandas
 ```
 Esta biblioteca es necesaria porque mediante ella podemos astraer la informcaion en la base de datos.
 
-* para instalar paho-mqtt
- sh
-pip install paho-mqtt
+* Para instalar fask:
+ ```sh
+pip install flask
+pip3 install flask
+```
+Esta biblioteca es la que se encarga de general la pagina.
 
-esa biblioteca ayuda a implementar las versiones 3.1 y 3.1.1 del protocolo MQTT.
-* para instalar fask:
- sh
-matraz de instalación de sudo pip
-
-Esta biblioteca es donde puede usar el rasberry pi 3 para alojar el sitio web, es decir, el servidor al que irá toda la información.
-
-* para instalar xlrd:
- sh
-pip install xlrd "
-
-Con esta biblioteca, podrá vincular los documentos de Excel con el sitio web y, por lo tanto, podrá leer los archivos de información que se ejecutarán.
+* Para instalar serial :
+``` python -m pip install pyserial
+```
+Esta bibloteca es la responsable de comunicar la pagina con el Arduino
 
 # Conexión entre el rasberry pi a la pantalla táctil de 3.5 "
 
