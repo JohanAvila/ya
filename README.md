@@ -46,7 +46,19 @@ python -m pip install pyserial
 ```
 Esta bibloteca es la responsable de comunicar la pagina con el Arduino
 
-* 
+* no se como ponerle pero es donde esplico los codigos
+
+```sh
+doc_exportar.pyc
+```
+En este codigo podremos encontrar cada una de las funciones que se encargan de abiitar las opciones de la pagina 
+```sh
+login
+calificacion
+promedio
+correo
+guardar
+```
 
 # Universidad de Ibague 
 
