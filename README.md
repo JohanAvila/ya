@@ -74,6 +74,11 @@ Es el encargado de leer la informacion del lector de  barrar y permitir mediante
 
 codigo principal es el encargado que general la pagina wed es a que donde se llaman las funciones de doc_exportar.pyc y tdos los codigos (html,css) de las carpetas de templates y static 
 
+# ejecucion no estoy seguro 
+
+* Codigo_Paralelo.py
+* Flask1.py
+
 # Universidad de Ibague 
 
 Programa de Ingeniería Electrónica
