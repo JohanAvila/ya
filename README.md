@@ -48,11 +48,10 @@ Esta bibloteca es la responsable de comunicar la pagina con el Arduino
 
 # no se como ponerle pero es donde esplico los codigos
 
-```sh
-doc_exportar.pyc
-```
+* doc_exportar.pyc
+
 En este codigo podremos encontrar cada una de las funciones que se encargan de abilitar las opciones de la pagina 
-las culaes se van a esportar a la codigo principal,se implementa este metodo para poder llevar un orden a la hora de programar 
+las culaes se van a esportar a la codigo principal,se implementa este metodo para poder llevar un orden a la hora de programar.
 
 ```sh
 * login
@@ -60,6 +59,10 @@ las culaes se van a esportar a la codigo principal,se implementa este metodo par
 * promedio
 * correo
 * guardar
+```
+
+```sh
+doc_exportar.pyc
 ```
 
 # Universidad de Ibague 
