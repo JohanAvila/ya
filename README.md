@@ -41,57 +41,21 @@ pip3 install flask
 Esta biblioteca es la que se encarga de general la pagina.
 
 * Para instalar serial :
-``` python -m pip install pyserial
+```sh 
+python -m pip install pyserial
 ```
 Esta bibloteca es la responsable de comunicar la pagina con el Arduino
 
-# Conexión entre el rasberry pi a la pantalla táctil de 3.5 "
 
-Por lo general, cuando usa el rasberry pi, conecta la forma a hdmi con un monitor. En este caso, utiliza una pantalla táctil de 3.5 "que se conecta directamente al pinout de frambuesa, por lo que debe colocar algunos comandos:
- sh
-sudo rm -rf LCD-show
-
-git clone https://github.com/goodtft/LCD-show.git
-
-chmod -R 755 pantalla LCD
-
-cd LCD-show /
-
-sudo ./LCD35-show
-
-En la última línea, este 35 indica el tamaño de la pantalla táctil que es tan importante porque si va a trabajar con otra pantalla táctil, necesitará otros comandos.
-
-Si desea volver a trabajar desde el monitor, solo necesita poner los siguientes comandos en el terminal.
-
- sh
-chmod -R 755 pantalla LCD
-
-cd LCD-show /
-
-
-sudo ./LCD-hdmi
-
-# Programación de Nodemcu ESP8266
-En primer lugar, necesita instalar una biblioteca en arduino IDE
-
-se abre el archivo, luego las preferencias e ingrese
- sh
-https://arduino.esp8266.com/stable/package_esp8266com_index.json
-
-en el campo URL de Board Manager adicionales. Puede agregar varias URL, separándolas con comas.
-luego, vaya al administrador de tarjetas y al motor de búsqueda, escriba "esp8266" y seleccione "comunidad esp0266", luego placa de herramientas y seleccione el módulo esp8266 genérico, el tamaño del flash se establece en "4M (1M SPIFFS)" y "velocidad de carga: 115200" y El puerto serie está configurado.
 
 # * Universidad de Ibague *
 Programa de Ingeniería Electrónica
 Electrónica Digital III 2019B
 Autores
-  - Julian David Alcala Forero
-  - Jhon Faver Mendoza
-  - Juan Camilo Leon Martinez
+  - Johan Steven Avila Paramo
+  - Juan Pablo Ocampo
+  - vale no me se todo tu nombre 
   
-  Tutor:
+ Tutor:
   Harold F. Murcia
-Enviar comentarios
-Historial
-Guardadas
-Comunidad
+
