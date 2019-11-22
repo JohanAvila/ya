@@ -4,14 +4,11 @@ copia una breve descripcion del trabjo que tengas en el informe
 
 * likn  del  viedo : valen toca poner el link que va a mandar pablo 
 
- Este repositorio contiene:
+# Este repositorio contiene:
 
 * Código fuente
 * Archivos de información
 * Script de desarrollo
-
-# * Requisitos difíciles: *
-
 
 # *Requisitos de Software:*
 
