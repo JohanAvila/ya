@@ -46,7 +46,7 @@ python -m pip install pyserial
 ```
 Esta bibloteca es la responsable de comunicar la pagina con el Arduino
 
-
+* 
 
 # Universidad de Ibague 
 
