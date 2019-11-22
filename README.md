@@ -54,10 +54,10 @@ Programa de Ingeniería Electrónica
 Electrónica Digital III 2019B
 
 Autores:
-  - Johan Steven Avila Paramo
-  - Juan Pablo Ocampo
-  - vale no me se todo tu nombre 
+  * Johan Steven Avila Paramo
+  * Juan Pablo Ocampo
+  * vale no me se todo tu nombre 
   
  Tutor:
-  Harold F. Murcia
+  * Harold F. Murcia
 
