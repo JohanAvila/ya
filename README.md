@@ -48,7 +48,7 @@ Esta bibloteca es la responsable de comunicar la pagina con el Arduino
 
 
 
-# * Universidad de Ibague *
+# Universidad de Ibague 
 
 Programa de Ingeniería Electrónica
 Electrónica Digital III 2019B
