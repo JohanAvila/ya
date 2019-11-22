@@ -49,9 +49,11 @@ Esta bibloteca es la responsable de comunicar la pagina con el Arduino
 
 
 # * Universidad de Ibague *
+
 Programa de Ingeniería Electrónica
 Electrónica Digital III 2019B
-Autores
+
+Autores:
   - Johan Steven Avila Paramo
   - Juan Pablo Ocampo
   - vale no me se todo tu nombre 
